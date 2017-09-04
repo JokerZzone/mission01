@@ -1,0 +1,63 @@
+.block0{
+    height: 400px;
+}
+.block0 .bg{
+    height: 100%;
+    width: 100%;
+    background: url(../source/img/original.jpg);
+    background-size: cover;
+    background-position-x: -350px;
+    overflow: hidden;
+}
+.block0 .ad{
+    width: 400px;
+    margin-left: 1170px;
+    overflow: hidden;
+}
+.font1{
+    color: white;
+    font-size: 40px;
+    float: left;
+    margin-top: 50px;
+}
+.font2{
+    overflow: hidden;
+    float: left;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.block0 .font2 p{
+    color: white;
+    font-size: 20px;
+    float: left;
+    height: 40px;
+    margin-left: 15px;
+    background: rgb(245,208,153);
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.font3{
+    color: white;
+    float: left;
+    margin-top: 30px;
+    font-size: 23px;
+    margin-left: 45px;
+}
+.font4{
+    float: left;
+    margin-top: 40px;
+    margin-left: 120px;
+    display: block;
+    width: 250px;
+    height: 50px;
+    background: red;
+    opacity: 0.6;
+    color: white;
+    font-size: 30px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    padding-left: 60px;
+}

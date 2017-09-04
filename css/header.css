@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.block1 .bg{
+    height: 100%;
+    width: 100%;
+    background: url(../source/img/original.jpg);
+    background-size: cover;
+    background-position-x: -350px;
+    overflow: hidden;
+}
+.outer{
+    width: 100%;
+    height: 100%;
+    background: rgb(255,255,255);
+}
+.header{
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+}
+.logo{
+    height: 70px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 280px;
+}
+.header .fonts{
+    float: left;
+    margin-top: 40px;
+    margin-left: 30px;
+    overflow: hidden;
+}
+.header p{
+    font-size: 27px;
+    display: block;
+    float: left;
+    margin-left: 70px;
+}
+.header .register{
+    float: left;
+    margin-left: 300px;
+    margin-top: 40px;
+    overflow: hidden;
+}
+.header .search{
+    float: left;
+    margin-top: 10px;
+}
+.header .register p{
+    width: 80px;
+    font-size: 25px;
+    display: block;
+    float: left;
+    margin-left: 50px;
+    border: 2px solid rgb(157,125,110);
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(157,125,110);
+}

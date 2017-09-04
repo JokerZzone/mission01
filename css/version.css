@@ -1,0 +1,11 @@
+.version{
+    height: 50px;
+    background: rgb(80,80,80);
+    overflow: hidden;
+}
+.version p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: white;
+    opacity: 0.6;
+}

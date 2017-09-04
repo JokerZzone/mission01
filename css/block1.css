@@ -1,0 +1,114 @@
+.block1{
+    height: 600px;
+}
+.block1 .title{
+    font-size: 25px;
+    margin-left: 280px;
+    padding-top: 40px;
+}
+.block1 .items{
+    margin-top: 30px;
+    margin-left: 230px;
+}
+.block1 .pre{
+    width: 50px;
+    height: 150px;
+    background: url(../source/img/prev.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 180px;
+    top: 770px;
+}
+.block1 .next{
+    width: 50px;
+    height: 150px;
+    background: url(../source/img/next.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 1680px;
+    top: 770px;
+}
+.block1 .item{
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.block1 .wrapper-top{
+    width: 300px;
+    height: 175px;
+}
+.block1 .img0{
+    width: 300px;
+    border-radius: 7px 7px 0 0;
+}
+.block1 .f0{
+    background: rgb(244,239,197);
+    display: inline-block;
+    width: 105px;
+    height: 35px;
+    padding-left: 10px;
+    padding-top: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: rgb(187,174,129);
+    border-radius: 0 0 0 10px;
+}
+.block1 .f00{
+    background: red;
+    display: inline-block;
+    width: 55px;
+    height: 35px;
+    padding-left: 10px;
+    padding-top: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: white;
+    border-radius: 0 0 0 10px;
+}
+.block1 .wrapper-bottom{
+    width: 300px;
+    height:250px;
+    border-radius: 0 0 7px 7px;
+    box-sizing: border-box;
+    padding-top: 10px;
+    border: 0.7px solid lightgray;
+}
+.block1 .wrapper-bottom .f1{
+    font-size: 18px;
+    margin-left: 30px;
+    width: 240px;
+    text-align: center;
+    margin-top: 20px;
+}
+.block1 .wrapper-bottom div{
+    margin-left: 70px;
+    margin-top: 15px;
+    width: 200px;
+}
+.block1 .wrapper-bottom div .f2{
+    width: 70px;
+    height: 35px;
+    display: inline-block;
+    font-size: 17px;
+    color: rgb(148,69,74);
+    border: 2px solid rgb(148,69,74);
+    border-radius: 5px;
+    padding-top: 5px;
+    box-sizing: border-box;
+    padding-left: 8px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.block1 .wrapper-bottom .f3{
+    font-size: 20px;
+    color: rgb(148,69,74);
+    margin-top: 15px;
+    text-align: center;
+}

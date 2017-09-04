@@ -1,0 +1,56 @@
+.footer{
+    height: 400px;
+    background: rgb(80,80,80);
+    overflow: hidden;
+}
+.footer .code{
+    padding-top: 50px;
+    margin-left: 280px;
+    float: left;
+}
+.footer .code .pic{
+    width: 200px;
+    height: 200px;
+}
+.footer .lan1{
+    margin-left: 40px;
+    margin-top: 50px;
+    float: left;
+}
+.footer .lan1 .f1{
+    margin-top: 40px;
+    font-size: 16px;
+    color: white;
+    opacity: 0.6;
+}
+.footer .lan2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.footer .f2{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.footer p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: white;
+    opacity: 0.6;
+}
+.footer .lan3{
+    float: left;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.footer .lan4{
+    float: left;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.footer .lan5{
+    float: left;
+    margin-top: 50px;
+    margin-left: 40px;
+}
