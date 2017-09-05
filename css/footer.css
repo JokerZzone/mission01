@@ -1,5 +1,6 @@
 .footer{
     height: 400px;
+    min-width: 1700px;
     background: rgb(80,80,80);
     overflow: hidden;
 }

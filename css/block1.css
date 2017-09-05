@@ -1,5 +1,6 @@
 .block1{
     height: 600px;
+    min-width: 1700px;
 }
 .block1 .title{
     font-size: 25px;

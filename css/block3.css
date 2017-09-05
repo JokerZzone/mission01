@@ -1,5 +1,6 @@
 .block3{
     height: 500px;
+    min-width: 1700px;
 }
 .block3 .title{
     font-size: 25px;

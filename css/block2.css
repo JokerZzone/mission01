@@ -1,5 +1,6 @@
 .block2{
     height: 800px;
+    min-width: 1700px;
     background: rgb(247,247,247);
 }
 .block2 .title{

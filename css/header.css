@@ -5,6 +5,7 @@
 .block1 .bg{
     height: 100%;
     width: 100%;
+    min-width: 1700px;
     background: url(../source/img/original.jpg);
     background-size: cover;
     background-position-x: -350px;

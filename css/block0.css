@@ -1,5 +1,6 @@
 .block0{
     height: 400px;
+    min-width: 1700px;
 }
 .block0 .bg{
     height: 100%;
